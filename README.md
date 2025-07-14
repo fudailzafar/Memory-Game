@@ -1,6 +1,6 @@
 # Memory Card Game
 
-A simple memory-matching card game built with HTML, CSS, and JavaScript. The player must match pairs of cards by flipping them over. After finishing the game, the cards are shuffled for a re-match.
+A simple memory-matching card game built with NextJs. The player must match pairs of cards by flipping them over. After finishing the game, the cards are shuffled for a re-match.
 
 ## Table of Contents
 - [Features](#features)
@@ -13,22 +13,6 @@ A simple memory-matching card game built with HTML, CSS, and JavaScript. The pla
 - Animated flipping and shaking effects for mismatched cards.
 - Random card shuffle at the beginning of each game.
 - Responsive and interactive UI.
-
-## Project Structure
-```
-├── Images/                  # Folder containing card images
-│   ├── img-1.png
-│   ├── img-2.png
-│   ├── img-3.png
-│   ├── img-4.png
-│   ├── img-5.png
-│   ├── img-6.png
-│   ├── img-7.png
-│   └── img-8.png
-├── index.html               # Main HTML file
-├── styles.css               # CSS file for styling
-└── script.js                # JavaScript file for game logic
-```
 
 ## How to Play
 1. Click on any card to flip it over.
